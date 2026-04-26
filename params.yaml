@@ -1,0 +1,7 @@
+prepare:
+  random_state: 42
+  test_size: 0.2
+train:
+  max_iter: 200
+  model_type: logreg
+  random_state: 42
