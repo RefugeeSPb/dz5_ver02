@@ -1,6 +1,6 @@
 prepare:
   random_state: 42
-  test_size: 0.2
+  test_size: 0.3
 train:
   max_iter: 200
   model_type: logreg
